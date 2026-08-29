@@ -51,9 +51,9 @@
 
 <br>
 
-- 🔍 Занимаюсь реверс-инжинирингом Sub-GHz радиопротоколов
-- 🏠 Умный дом на Home Assistant + кастомные устройства
-- 🌐 Разрабатываю и поддерживаю сайт института
+- Занимаюсь реверс-инжинирингом Sub-GHz радиопротоколов
+- Умный дом на Home Assistant + кастомные устройства
+- Разрабатываю и поддерживаю сайт института
 
 </details>
 
@@ -61,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 id="projects">🚀 Ключевые проекты</h2>
+<h2 id="projects">лючевые проекты</h2>
 
 <table>
   <tr>
@@ -126,13 +126,6 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-89B4FA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:mail@example.com"><img src="https://img.shields.io/badge/Email-CBA6F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 <br>
