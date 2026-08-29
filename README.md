@@ -13,14 +13,6 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kazinagg&label=ПРОСМОТРЫ&color=CBA6F7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/Kazinagg?label=ПОДПИСЧИКИ&style=for-the-badge&color=89B4FA&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Kazinagg?label=ЗВЁЗДЫ&style=for-the-badge&color=F5C2E7&logo=github" alt="stars" />
-</div>
-
-<br>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake.svg">
