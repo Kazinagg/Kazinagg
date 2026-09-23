@@ -1,133 +1,123 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:89B4FA,50:CBA6F7,100:F5C2E7&text=Artem%20%7C%20Kazinagg&fontSize=60&fontColor=CDD6F4&fontAlignY=32&desc=AI%20%26%20Hardware%20Systems%20Architect&descAlignY=54&descAlign=50&descSize=18&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:89B4FA,50:CBA6F7,100:F5C2E7&text=Artem%20%7C%20Kazinagg&fontSize=60&fontColor=1E1E2E&fontAlignY=32&desc=AI%20%26%20Hardware%20Systems%20Architect&descAlignY=54&descAlign=50&descSize=18&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:89B4FA,50:CBA6F7,100:F5C2E7&text=Artem%20%7C%20Kazinagg&fontSize=60&fontColor=CDD6F4&fontAlignY=32&desc=AI%20%26%20Hardware%20Systems%20Architect&descAlignY=54&descAlign=50&descSize=18&animation=twinkling" alt="Artem | Kazinagg">
-</picture>
-
 <div align="center">
-  <a href="https://github.com/Kazinagg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=F5C2E7&center=true&vCenter=true&width=780&lines=FastAPI+%26+DeepSeek+MCP+Architect;Multi-Agent+RAG+Systems;Institute+Web+App+Developer;Moodle+AI+Integration;Home+Assistant+%26+ESP32+IoT" alt="Typing SVG" />
-  </a>
+  <img src="assets/header.svg" width="100%" alt="Kazinagg // Artem - AI & Hardware Systems Architect" />
 </div>
 
 <br>
 
 <div align="center">
+  <a href="#dossier"><img src="assets/btn-dossier.svg" alt="Dossier" /></a>
+  <a href="#inventory"><img src="assets/btn-inventory.svg" alt="Inventory" /></a>
+  <a href="#missions"><img src="assets/btn-missions.svg" alt="Missions" /></a>
+  <a href="#activity"><img src="assets/btn-activity.svg" alt="Activity" /></a>
+  <a href="#comms"><img src="assets/btn-comms.svg" alt="Comms" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/pcb-divider.svg" width="100%" alt="PCB Divider" />
+</div>
+
+<h2 id="dossier">💾 [01] // СИСТЕМНОЕ ДОСЬЕ И ХАРАКТЕРИСТИКИ</h2>
+
+<div align="center">
+  <img src="assets/profile-card.svg" width="100%" alt="System Dossier // Kazinagg Metrics" />
+</div>
+
+<br>
+
+> **Инженерный профиль:** Разработчик и магистрант инженерных систем. Специализируюсь на проектировании отказоустойчивых бэкенд-сервисов, интеграции мультиагентных RAG-пайплайнов на базе нейросетей (DeepSeek, MCP) и разработке аппаратно-программных комплексов на базе микроконтроллеров ESP32 и радиопротоколов Sub-GHz.
+
+<details>
+<summary><b>📂 [РАСКРЫТЬ ДАННЫЕ ТЕРМИНАЛА: ИНЖЕНЕРНЫЕ СПЕЦИФИКАЦИИ]</b></summary>
+<br>
+
+```yaml
+system_spec:
+  architect: "Artem (Kazinagg)"
+  role: "AI Systems & Hardware Architect"
+  location: "Belgorod // Lab-01"
+  academic: "M.Sc. Candidate, BelSU Engineering"
+  core_stack:
+    ai_rag: ["DeepSeek R1/V3", "Multi-Agent Frameworks", "MCP", "ChromaDB/pgvector"]
+    backend: ["FastAPI", "Django Core", "PostgreSQL", "Redis", "Docker"]
+    hardware_rf: ["ESP32 Dual-Core", "FreeRTOS", "Sub-GHz RF (433/868 MHz)", "Home Assistant"]
+    languages: ["Python 3.12", "C++20", "C", "Bash", "SQL"]
+  motto: "Если систему нельзя автоматизировать — её нужно перепроектировать."
+```
+
+</details>
+
+<br>
+
+<div align="center">
+  <img src="assets/pcb-divider.svg" width="100%" alt="PCB Divider" />
+</div>
+
+<h2 id="inventory">⚡ [02] // ТЕХНОЛОГИЧЕСКИЙ ИНВЕНТАРЬ (EQUIPPED SLOTS)</h2>
+
+<div align="center">
+  <img src="assets/tech-inventory.svg" width="100%" alt="Equipped Tech Inventory" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/pcb-divider.svg" width="100%" alt="PCB Divider" />
+</div>
+
+<h2 id="missions">🚀 [03] // АКТИВНЫЕ МИССИИ И ПРОЕКТЫ</h2>
+
+<div align="center">
+  <img src="assets/projects-board.svg" width="100%" alt="Active Missions & Deployed Architectures" />
+</div>
+
+<br>
+
+<details>
+<summary><b>📂 [РАСКРЫТЬ: АРХИТЕКТУРНЫЙ ОТЧЕТ ПО ПРОЕКТАМ]</b></summary>
+<br>
+
+| Миссия / Проект | Стек & Протоколы | Архитектурная роль и результаты |
+| :--- | :--- | :--- |
+| **Moodle AI RAG Engine** | `DeepSeek` `MCP` `FastAPI` | Мультиагентный RAG-конвейер для семантического поиска и интеллектуальной помощи студентам и преподавателям внутри Moodle. |
+| **Institute Web Platform** | `Django` `React` `PostgreSQL` | Официальный информационный портал института: проектирование схемы БД, высокая доступность, кастомная аутентификация и микросервисы. |
+| **ESP32 IoT & Sub-GHz RF** | `ESP32` `Sub-GHz` `Home Assistant` | Исследование и декодирование проприетарных Sub-GHz радиопакетов, интеграция кастомных беспроводных узлов в экосистему умного дома. |
+
+</details>
+
+<br>
+
+<div align="center">
+  <img src="assets/pcb-divider.svg" width="100%" alt="PCB Divider" />
+</div>
+
+<h2 id="activity">👾 [04] // СЕТКА АКТИВНОСТИ (CONTRIBUTION GRID)</h2>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake.svg">
-    <img alt="github activity grid" src="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kazinagg/Kazinagg/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/👨‍💻_ОБО_МНЕ-89B4FA?style=for-the-badge&labelColor=181825" alt="About"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/🚀_ПРОЕКТЫ-CBA6F7?style=for-the-badge&labelColor=181825" alt="Projects"></a>
-  <a href="#tech"><img src="https://img.shields.io/badge/🛠_СТЕК-F5C2E7?style=for-the-badge&labelColor=181825" alt="Tech"></a>
+  <img src="assets/pcb-divider.svg" width="100%" alt="PCB Divider" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 id="about">👨‍💻 Профессиональный профиль</h2>
-
-<img align="right" width="330" src="https://media.giphy.com/media/IwAZ6dvvvaTtdS8cSA/giphy.gif" alt="coding" />
-
-Я разработчик и магистрант, специализируюсь на проектировании сложных **бэкенд-архитектур**, интеграции **ИИ в существующие платформы** и создании **IoT-экосистем**.
-
-Опыт полного цикла: от проектирования баз данных и RAG-пайплайнов до контейнеризации проектов и реверс-инжиниринга радиосигналов.
-
-> 💬 **Девиз:** если систему нельзя автоматизировать — её нужно спроектировать заново.
-
-<br>
-
-**Основной арсенал:**
-
-<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>Django</kbd> <kbd>React</kbd> <kbd>C++</kbd> <kbd>DeepSeek</kbd> <kbd>MCP</kbd> <kbd>PostgreSQL</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> <kbd>Linux</kbd> <kbd>ESP32</kbd> <kbd>Home Assistant</kbd>
-
-<details>
-<summary><b>📂 Раскрыть: любопытные факты</b></summary>
-
-<br>
-
-- Занимаюсь реверс-инжинирингом Sub-GHz радиопротоколов
-- Умный дом на Home Assistant + кастомные устройства
-- Разрабатываю и поддерживаю сайт института
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 id="projects">лючевые проекты</h2>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:89B4FA,100:CBA6F7&text=MOODLE%20AI%20RAG&fontSize=20&fontColor=1E1E2E&desc=Multi-Agent%20System&descSize=12&animation=fadeIn" width="100%" alt="Moodle AI" />
-      <br>
-      <b>Мультиагентная система</b> автоматизации обучения: RAG-пайплайн, интеграция LLM в Moodle.
-      <br><br>
-      <img src="https://img.shields.io/badge/RAG-89B4FA?style=flat-square" />
-      <img src="https://img.shields.io/badge/DeepSeek-CBA6F7?style=flat-square" />
-      <img src="https://img.shields.io/badge/FastAPI-F5C2E7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Moodle-89B4FA?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:CBA6F7,100:F5C2E7&text=INSTITUTE%20SITE&fontSize=20&fontColor=1E1E2E&desc=Web%20Platform&descSize=12&animation=fadeIn" width="100%" alt="Institute Site" />
-      <br>
-      <b>Сайт института</b>: разработка и поддержка веб-ресурса, бэкенд-сервисы и пользовательский интерфейс.
-      <br><br>
-      <img src="https://img.shields.io/badge/Django-CBA6F7?style=flat-square" />
-      <img src="https://img.shields.io/badge/React-89B4FA?style=flat-square" />
-      <img src="https://img.shields.io/badge/PostgreSQL-F5C2E7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Redis-CBA6F7?style=flat-square" />
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:A6E3A1,100:F9E2AF&text=ESP32%20IOT&fontSize=20&fontColor=1E1E2E&desc=Smart%20Ecosystem&descSize=12&animation=fadeIn" width="100%" alt="ESP32" />
-      <br>
-      <b>Кастомные IoT-устройства</b> и дашборды для умного дома, работа с Sub-GHz.
-      <br><br>
-      <img src="https://img.shields.io/badge/ESP32-A6E3A1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Home_Assistant-F9E2AF?style=flat-square" />
-      <img src="https://img.shields.io/badge/HACS-A6E3A1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Sub--GHz-F9E2AF?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<h2 id="tech">🛠 Технологический арсенал</h2>
+<h2 id="comms">📡 [05] // КАНАЛ СВЯЗИ (INCOMING TRANSMISSION)</h2>
 
 <div align="center">
-
-**Языки и фреймворки**
-
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,cpp,react,c,bash&theme=dark" alt="Languages" />
-
-**Базы данных и инфраструктура**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,nginx,docker,linux,github,git&theme=dark" alt="Infra" />
-
-**Инструменты и хардвер**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,arduino,raspberrypi&theme=dark" alt="Tools" />
-
+  <a href="https://t.me/Kazinagg">
+    <img src="assets/dialogue-footer.svg" width="100%" alt="Transmission Comms // Kazinagg" />
+  </a>
 </div>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <code>[SYS_EXIT: 0x00] // SESSION TERMINATED SUCCESSFULLY // READY_PLAYER_ONE</code>
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F5C2E7,50:CBA6F7,100:89B4FA&text=Спасибо%20за%20визит!&fontSize=24&fontColor=CDD6F4&fontAlignY=70" width="100%">

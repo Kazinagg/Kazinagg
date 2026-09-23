@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 36" width="150" height="36" shape-rendering="crispEdges">
+  <defs>
+    <style>
+      .btn-text {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+        font-size: 11px;
+        font-weight: bold;
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect x="2" y="2" width="146" height="32" fill="#091A0C"/>
+  <!-- Outer border -->
+  <rect x="2" y="2" width="146" height="32" fill="none" stroke="#162235" stroke-width="2"/>
+  <rect x="4" y="4" width="142" height="28" fill="none" stroke="#39FF14" stroke-width="1.5" opacity="0.8"/>
+  <!-- Pixel corner notches -->
+  <rect x="2" y="2" width="4" height="4" fill="#39FF14"/>
+  <rect x="144" y="2" width="4" height="4" fill="#39FF14"/>
+  <rect x="2" y="30" width="4" height="4" fill="#39FF14"/>
+  <rect x="144" y="30" width="4" height="4" fill="#39FF14"/>
+  <!-- Center Text -->
+  <text x="75" y="22" fill="#39FF14" text-anchor="middle" class="btn-text">
+    🚀 MISSIONS
+  </text>
+</svg>
